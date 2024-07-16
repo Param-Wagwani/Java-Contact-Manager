@@ -1,0 +1,29 @@
+<ContactList>
+	<Contact>
+		<name>Harvey</name>
+		<mobileNumber>+92 77777777777</mobileNumber>
+		<email>harvey@gmail.com</email>
+		<gender>Male</gender>
+		<address></address>
+		<dateOfBirth></dateOfBirth>
+	</Contact>
+
+	<Contact>
+		<name>Manchid</name>
+		<mobileNumber>+5 5858778558</mobileNumber>
+		<email></email>
+		<gender>Male</gender>
+		<address></address>
+		<dateOfBirth></dateOfBirth>
+	</Contact>
+
+	<Contact>
+		<name>Mike</name>
+		<mobileNumber>+1 33333333333</mobileNumber>
+		<email>mike@hotmail.com</email>
+		<gender>Male</gender>
+		<address></address>
+		<dateOfBirth></dateOfBirth>
+	</Contact>
+
+</contactList>
